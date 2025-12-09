@@ -72,4 +72,5 @@ This dashboard helps:
 •	Track delivery efficiency
 •	Identify top products and sales trends
 •	Support decision-making with real-time insights
+<img width="846" height="568" alt="image" src="https://github.com/user-attachments/assets/962e7c42-fa4d-4dc7-bb95-392aad632412" />
 
