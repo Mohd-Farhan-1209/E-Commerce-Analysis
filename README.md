@@ -16,6 +16,7 @@ Average price and payment values from customers of sao paulo city
 Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
 
 
+
 🔍 Key Insights Highlighted in the Dashboard
 
 1. Overall Business Metrics
@@ -28,6 +29,8 @@ Unique Customers: 107,641
 
 analysis
 
+
+
 📅 Payment & Customer Behavior Analysis
 
 • Weekday vs Weekend Payment Statistics
@@ -39,6 +42,9 @@ Shows distribution of payments made on weekdays vs weekends, helping understand 
 Breakdown of orders with review score 5 paid via credit card
 
 Relationship between shipping days and review scores, highlighting how delivery speed affects customer satisfaction
+
+
+
 
 🚚 Logistics & Delivery Metrics
 
@@ -54,6 +60,9 @@ Visual comparison showing how delivery performance influences customer reviews.
 
 Summarizes delivered, canceled, and other order statuses by sales value.
 
+
+
+
 🛒 Product Performance
 
 Top 5 Products by Sales
@@ -65,6 +74,8 @@ Average Price & Payment Values – São Paulo City
 Shows purchasing behavior and average basket size for customers in São Paulo.
 
 
+
+
 🎯 Purpose of This Project:
 This dashboard helps:
 •	Analyze customer purchasing behavior
@@ -72,6 +83,17 @@ This dashboard helps:
 •	Track delivery efficiency
 •	Identify top products and sales trends
 •	Support decision-making with real-time insights
+
+
+
+
+
+
+
+
+
+
+
 
 
 
