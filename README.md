@@ -3,7 +3,7 @@
 This dashboard provides a comprehensive analysis of the Olist E-Commerce dataset, offering insights into sales performance, customer behavior, product demand, and operational efficiency. It visually summarizes key business metrics to help identify trends, evaluate performance, and support data-driven decision-making.
 
 
-KPI Questions
+⭐ KPI Questions for E-Commerce Dashboard
 
 Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 
